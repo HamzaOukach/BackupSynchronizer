@@ -22,5 +22,5 @@ A system that allows users to automatically back up files at configurable time i
 
 1. Clone the repository to your local machine
 2. Compile and run (adjust paths/class names as needed):
-  - javac -d bin src/*.java
-  - java -cp bin MainClassName
+ `javac -d bin src/*.java`
+ `java -cp bin MainClassName`
